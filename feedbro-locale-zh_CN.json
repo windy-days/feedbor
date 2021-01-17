@@ -7,7 +7,7 @@
         "locale_last_updated": "2021-01-17 11:00:00 UTC",
         "locale_author_name": "有风的日子",
         "locale_author_email": "user-register@hotmail.com",
-        "locale_source_url": "E:\常用软件\feedbro-locale-zh_CN.json"
+        "locale_source_url": "https://raw.githubusercontent.com/windy-days/feedbro/main/feedbro-locale-zh_CN.json"
     },
     "addfeed_url_body": "订阅源链接",
     "addfeed_load_body": "获取",
